@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+}
+
+.centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 600px;
+    background-color: rgb(41, 10, 10);
+    border-radius: 8px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 194px;
+    height: 72px;
+    border-radius: 8px;
+    border: none;
+    background-color: #90caf9;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: medium;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #42a5f5;
+}
+
+.btn:active {
+    background-color: #0183bb;
+}
+
+.btn svg {
+    margin-right: 10px;
+}
