@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Another AI company wrote us and here’s our response",
+    "url": "https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/"
+  },
+  {
+    "title": "Scoped Propagators",
+    "url": "https://www.orionreed.com/posts/scoped-propagators"
+  },
+  {
+    "title": "Docs as Code",
+    "url": "https://www.writethedocs.org/guide/docs-as-code/"
+  },
+  {
+    "title": "Dynamic translation of Smalltalk to WebAssembly",
+    "url": "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
+  },
+  {
+    "title": "MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use",
+    "url": "https://github.com/facebookresearch/MobileLLM"
+  },
+  {
+    "title": "Circos – Circular Visualization",
+    "url": "https://circos.ca/"
+  },
+  {
+    "title": "The coming eBPF revolution and why Kubernetes monitoring will never be the same",
+    "url": "https://getanteon.com/blog/the-coming-ebpf-revolution-and-why-kubernetes-monitoring-will-never-be-the-same/"
+  },
+  {
+    "title": "Sljit: Platform independent low-level JIT compiler",
+    "url": "https://github.com/zherczeg/sljit"
+  },
+  {
+    "title": "PySkyWiFi: Free stupid wi-fi on long-haul flights",
+    "url": "https://robertheaton.com/pyskywifi/"
+  },
+  {
+    "title": "End-to-end congestion control cannot avoid latency spikes (2022)",
+    "url": "https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/"
+  },
+  {
+    "title": "No more boot loader: Please use the kernel instead",
+    "url": "https://pretalx.com/devconf-cz-2024/talk/W3AVCT/"
+  },
+  {
+    "title": "Show HN: Crawlee for Python – a web scraping and browser automation library",
+    "url": "https://crawlee.dev/python/"
+  },
+  {
+    "title": "Linksys Velop routers send Wi-Fi passwords in plaintext to US servers",
+    "url": "https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/"
+  },
+  {
+    "title": "Rye: A Hassle-Free Python Experience",
+    "url": "https://rye.astral.sh/"
+  },
+  {
+    "title": "CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child",
+    "url": "https://www.openwall.com/lists/oss-security/2024/07/08/2"
+  },
+  {
+    "title": "Read Hacker News on Kindle (2022)",
+    "url": "https://ktool.io/hacker-news-to-kindle"
+  },
+  {
+    "title": "Evolve Bank and Trust confirms LockBit stole 7.6M people's data",
+    "url": "https://www.theregister.com/2024/07/09/evolve_lockbit_attack/"
+  },
+  {
+    "title": "AI Humane execs leave company to found AI fact-checking startup",
+    "url": "https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/"
+  },
+  {
+    "title": "Inline previous result in Emacs Lisp",
+    "url": "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
+  },
+  {
+    "title": "DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)",
+    "url": "https://sqlitebrowser.org/"
+  },
+  {
+    "title": "Etsy loses its 'handmade' and 'vintage' labels as it takes on Temu and Amazon",
+    "url": "https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change"
+  },
+  {
+    "title": "Guide to attending a space launch in person",
+    "url": "https://countdowntoignition.com/guide-to-attending-launch"
+  },
+  {
+    "title": "C++ patterns for low-latency applications including high-frequency trading",
+    "url": "https://arxiv.org/abs/2309.04259"
+  },
+  {
+    "title": "Reverse engineering Ticketmaster's rotating barcodes",
+    "url": "https://conduition.io/coding/ticketmaster/"
+  },
+  {
+    "title": "The Right Kind of Stubborn",
+    "url": "https://paulgraham.com/persistence.html"
+  },
+  {
+    "title": "Making my own wedding rings",
+    "url": "https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/"
+  },
+  {
+    "title": "Scientists create a cell that precludes malignant growth",
+    "url": "https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html"
+  },
+  {
+    "title": "How I turned seemingly 'failed' experiments into a successful PhD",
+    "url": "https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd"
+  },
+  {
+    "title": "The zombie misconception of theoretical computer science",
+    "url": "https://scottaaronson.blog/?p=8106"
+  },
+  {
+    "title": "The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought",
+    "url": "https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/"
+  }
+]
