@@ -6,11 +6,13 @@
  * @return {Promise}
  */
 const addTwoPromises = async function (promise1, promise2) {
-    return new Promise()
-}
+    const [a, b] = await Promise.all([promise1, promise2]);
+    return a + b;
+};
 
-const promise1 = new Promise(resolve => setTimeout(() => resolve(2), 20))
-const promise2 = new Promise(resolve => setTimeout(() => resolve(5), 60))
+const promise1 = new Promise.resolve(2);
+const promise2 = new Promise.resolve(5);
 
-addTwoPromises(promise1, promise2)
-    .then(console.log) // 7
+(() => {
+    addTwoPromises(promise1, promise2).then(console.log); // 7
+})();
